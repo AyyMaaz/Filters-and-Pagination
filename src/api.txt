@@ -1,0 +1,2 @@
+through api we can access data from someone server
+to send data in api use JSON.Stringify
